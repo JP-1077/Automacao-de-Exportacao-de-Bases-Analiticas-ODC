@@ -1,2 +1,17 @@
 # Automacao de Exportacao de Bases Analiticas
-Este projeto tem como objetivo automatizar a extração e exportação diária de dados da base de ODC dos canais GOV e PROCON. Certamente, A automação é necessária para garantir confiabilidade, padronização e rastreabilidade dos dados operacionais.
+
+## Objetivo 🎯
+Automatizar a extração de dados de duas tabelas analiticas presentes em um banco de dados SQL Server, exportando os dados em formato CSV para um diretório do OneDrive.
+
+## Tecnologia e Ferramentas 🛠
+* Linguagem: Python
+* Bibliotecas:
+  * pandas (manipulação de dados)
+  * pyodbc (conexão com SQL Server)
+  * os (interação com sistema operacional)
+  * datetime (registro de tempo)
+* Banco de Dados: SQL Server
+
+## System Design ✍🏼
+
+
